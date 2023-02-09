@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: aquamarine;
+    
+}
+
+
+h1 {
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    background-color: azure;
+}
+
+h2 {
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 80px;
+}
+
+.player-layer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.player1, .player2 {
+    font-family: 'Fugaz One', cursive;
+    text-align: center;
+}
+
+.player1 {
+    padding-right: 10px;
+}
+
+.player2 {
+    padding-left: 10px;
+}
+
+.footerist {
+    padding-top: 100px;
+    font-family: 'Fugaz One', cursive;
+    font-size: 30px;
+}
+
+.footerist h3 {
+    text-align: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    font-family: 'Fugaz One', cursive;
+}
+
+button {
+    font-family: 'Fugaz One', cursive;
+    background-color: green;
+    color: blanchedalmond;
+    margin: 5px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
